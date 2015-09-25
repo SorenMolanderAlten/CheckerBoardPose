@@ -31,6 +31,7 @@
 using namespace cv;
 using namespace std;
 
+//Joel har lagt till en kommentar här för att se att github fungerar
 
 double L2norm3D(Mat& vec) {
     Mat v(1,3,CV_64F);
